@@ -27,7 +27,8 @@ console.log ( 'My favorite food is', food );
 let pets = 1;
 console.log ( 'I have', pets, 'pet(s)' );
 // 10 - Create a variable called `friendsPets` and assign it the value of the number of pets your friend has
-
+let friendsPets = 1
+console.log ( 'My friends have', friendsPets, 'pet(s)' );
 // 11 - Add two pets to your `pets` variable
 
 // 12 - Create a constant variable called `allowedPets` and set it to a number value of your choice
