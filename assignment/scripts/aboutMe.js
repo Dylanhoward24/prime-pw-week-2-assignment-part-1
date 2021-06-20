@@ -69,9 +69,7 @@ else {
 // assigns the highest value to `mostPets`. There's several possibilities --
 // be sure to think through all the scenarios.
 // console.log `mostPets` after the conditional has run.
-let pets = 2;
-let friendsPets = 4;
-let mostPets;
+let mostPets; 
 
 if ( pets > friendsPets ) {
   let mostPets = pets;
