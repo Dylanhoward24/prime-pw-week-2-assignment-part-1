@@ -90,6 +90,4 @@ switch ( true ){
     console.log( 'You and your friend have the same number of pets' );
 }
 // 18 -- Rewrite question 13 with a `ternary` operator. You'll need to do research!
-
-// 13 - Create a conditional: if adventurous is true, console log "Adventures are great!",
-// if it's not true, console log "How about we stay home?"
+adventurous ? console.log( 'Adventures are great!' ) : console.log( 'How about we stay home?');
