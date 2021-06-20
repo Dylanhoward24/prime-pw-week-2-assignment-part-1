@@ -25,12 +25,13 @@ let food = 'Macaroni and Cheese';
 console.log ( 'My favorite food is', food );
 // 9 - Create a variable called `pets` and set it to the value of the number of pets you have
 let pets = 1;
-console.log ( 'I have', pets, 'pet(s)' );
+console.log ( 'I have', pets, 'pet' );
 // 10 - Create a variable called `friendsPets` and assign it the value of the number of pets your friend has
 let friendsPets = 1
-console.log ( 'My friends have', friendsPets, 'pet(s)' );
+console.log ( 'My friends have', friendsPets, 'pet' );
 // 11 - Add two pets to your `pets` variable
-
+pets = 3;
+console.log ( 'I now have', pets, 'pets' );
 // 12 - Create a constant variable called `allowedPets` and set it to a number value of your choice
 
 // 13 - Create a conditional: if adventurous is true, console log "Adventures are great!",
