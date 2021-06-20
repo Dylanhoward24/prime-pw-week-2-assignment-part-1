@@ -30,7 +30,7 @@ console.log ( 'I have', pets, 'pet' );
 let friendsPets = 1
 console.log ( 'My friends have', friendsPets, 'pet' );
 // 11 - Add two pets to your `pets` variable
-pets = 3;
+pets += 2;
 console.log ( 'I now have', pets, 'pets' );
 // 12 - Create a constant variable called `allowedPets` and set it to a number value of your choice
 const allowedPets = 4
