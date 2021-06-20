@@ -69,15 +69,15 @@ else {
 // assigns the highest value to `mostPets`. There's several possibilities --
 // be sure to think through all the scenarios.
 // console.log `mostPets` after the conditional has run.
-let mostPets; 
+let mostPets;
 
 if ( pets > friendsPets ) {
-  let mostPets = pets;
+  mostPets = pets;
 }
 else {
-  let mostPets = friendsPets;
+  mostPets = friendsPets;
 }
-console.log( mostPets );
+console.log( 'The most pets is ' + mostPets );
 // 17 - Rewrite question 16 with a `switch` statement. You'll need to do research!
 
 // 18 -- Rewrite question 13 with a `ternary` operator. You'll need to do research!
