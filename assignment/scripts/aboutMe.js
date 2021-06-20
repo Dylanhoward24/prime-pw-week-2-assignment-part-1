@@ -21,7 +21,8 @@ console.log ( 'My name is', firstName, lastName, 'and I think', luckyNumber, 'is
 let adventurous = true;
 console.log ( 'adventurous =', adventurous );
 // 8 - Create a variable named `food`, and set its value to a string of your favorite food
-
+let food = 'Macaroni and Cheese';
+console.log ( 'My favorite food is', food );
 // 9 - Create a variable called `pets` and set it to the value of the number of pets you have
 
 // 10 - Create a variable called `friendsPets` and assign it the value of the number of pets your friend has
